@@ -46,12 +46,25 @@
 </td>
 <td width="50%">
 
-### 🛒 E-Commerce Backend API  
-- TypeScript + Sequelize  
-- Admin / Retailer / User roles  
-- MySQL + JWT Auth  
+### 🛒 Cricket Scoreboard Management
+- NodeJs + Sequelize + React + MYSQL +  Cloudinary
+- Admin / User roles  
+- JWT Auth  
 
-🔗 **Repo:** https://github.com/CoderVinit
+🔗 **Live:** https://sports-scoreboard-frontend.onrender.com  
+🔗 **Repo:** https://github.com/CoderVinit/sports-scoreboard-frontend
+
+</td>
+</tr>
+<tr>
+  <td width="50%">
+
+### 🛒 Portfolio
+- Next + TypeScript
+- JWT Auth  
+
+🔗 **Live:** https://portfolio-vueq.vercel.app/
+🔗 **Repo:** https://github.com/CoderVinit/Portfolio
 
 </td>
 </tr>
