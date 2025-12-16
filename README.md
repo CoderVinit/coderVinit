@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vinit+Patel;Backend+%26+MERN+Stack+Developer;TypeScript+%7C+Node.js+%7C+Sequelize;MYSQL+%7C+MongoDb+%7C+PostgreSQL;600%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vinit+Patel;Backend+%26+MERN+Stack+Developer;TypeScript+%7C+JavaScript+%7C;Sequelize-Orm+%7C+Type-Orm+%7C+Drizzle-orm;MYSQL+%7C+MongoDb+%7C+PostgreSQL;600%2B+DSA+Problems+Solved" />
 </p>
 
 <p align="center">
