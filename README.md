@@ -33,7 +33,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" background-color="red">
 
 ### 🏥 Doctor Appointment Booking System  
 - Full-stack MERN application  
