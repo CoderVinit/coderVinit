@@ -91,10 +91,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/vinit-patel-61ab4a204/">
     <img src="https://img.shields.io/badge/LinkedIn-Vinit%20Patel-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vinitpatel8896@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
