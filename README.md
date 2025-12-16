@@ -1,83 +1,106 @@
-<h1 align="center">Hi 👋, I'm Vinit Patel</h1>
-<h3 align="center">Software Developer | Backend & MERN Stack</h3>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Vinit+Patel;Backend+%26+MERN+Stack+Developer;TypeScript+%7C+Node.js+%7C+Sequelize;600%2B+DSA+Problems+Solved" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;MERN+Stack+Engineer;TypeScript+%7C+Node.js+%7C+Sequelize;600%2B+DSA+Problems+Solved&center=true&width=600&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 Software Developer with **1+ year internship experience**
-- 🧠 Solved **600+ DSA problems** (LeetCode, CodeChef, Codeforces)
-- 🔧 Strong in **Node.js, Express, TypeScript, Sequelize, MySQL**
-- 🏗️ Building **scalable backend systems & REST APIs**
-- 🌱 Currently exploring **NestJS & advanced system design**
+<img align="right" width="280" src="https://github.com/user-attachments/assets/animated-coding.gif"/>
+
+- 💻 Software Developer (Backend & MERN)
+- 🧠 Solved **600+ DSA problems**
+- 🔐 Strong in **Auth, REST APIs & DB design**
+- 🏗️ Building scalable systems with **TypeScript & Sequelize**
+- 🚀 Exploring **NestJS & System Design**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=sequelize)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,mysql,sequelize,redux,aws,docker,git" />
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🛒 E-Commerce Backend (TypeScript + Sequelize + MySQL)
-- Role-based authentication (Admin / Retailer / User)
-- JWT auth, product & cart management
-- Clean layered architecture  
-🔗 https://github.com/CoderVinit
+<table>
+<tr>
+<td width="50%">
 
-### 🏨 Hotel & Restaurant Booking Platform
-- MERN stack application
-- Vendor, Customer & Admin dashboards
-- Booking & review system  
-🔗 https://github.com/CoderVinit
+### 🏥 Doctor Appointment Booking System  
+- Full-stack MERN application  
+- JWT Auth & Role-based access  
+- Deployed on Render  
 
-### 📂 AWS S3 File Upload System
-- Multer + AWS S3 integration
-- Secure file storage with metadata in DB  
-🔗 https://github.com/CoderVinit
+🔗 **Live:** https://doctor-frontend-jyoc.onrender.com  
+🔗 **Repo:** https://github.com/CoderVinit/doctor-appointmt-booking-system
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Backend API  
+- TypeScript + Sequelize  
+- Admin / Retailer / User roles  
+- MySQL + JWT Auth  
+
+🔗 **Repo:** https://github.com/CoderVinit
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧩 Coding Profiles
 
-- 🟡 LeetCode: https://leetcode.com/
-- 🟢 CodeChef: https://www.codechef.com/
-- 🔵 Codeforces: https://codeforces.com/
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderVinit&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVinit&theme=tokyonight" />
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-600%2B-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive-brown?style=for-the-badge&logo=codechef" />
+  </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics (Animated)
 
-- 💼 LinkedIn: https://linkedin.com/in/
-- 📧 Email: your-email@example.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderVinit&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderVinit&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderVinit&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinit%20Patel-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
